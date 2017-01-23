@@ -13,7 +13,7 @@ ActiveTypes=QTWeb
 GenerateTypes=QTWeb
 AdditionalTypes=QTWeb
 DevelopTool=Vugen
-LastModifyVer=14.0.0.1251
+LastModifyVer=14.0.0.1199
 ParamLeftBrace={
 ParamRightBrace=}
 ScriptLanguage=C
@@ -36,7 +36,7 @@ Default Profile=default.cfg
 globals.h=
 [Modified Actions]
 vuser_init=1
-Action=0
+Action=1
 vuser_end=0
 [Recorded Actions]
 vuser_init=0
